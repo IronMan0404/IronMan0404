@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, AWS, Jenkins, Actions, Docker, Airflow**
 
-- 📫 How to reach me **Bhargava.batchu@tr.com**
+- 📫 How to reach me **bhargava.batchu@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
